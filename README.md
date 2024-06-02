@@ -1,7 +1,8 @@
 # TFP Github Site
 
 ### Overview
-HTML to be hosted in an iframe is kept in the "static" folder.
+- Note that this is a **public** repository.
+- HTML to be hosted in an iframe is kept in the "static" folder.
 
 ### To Do:
 - Automate HTML update, either through GitHub actions or something else
