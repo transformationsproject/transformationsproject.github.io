@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+This is the front page of the Trans Formations Project GitHub page. 
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+This site has very little in the way of the neat stuff we do, so you should visit [https://www.transformationsproject.org](https://www.transformationsproject.org/) to see our work fighting against anti-trans legislation!
